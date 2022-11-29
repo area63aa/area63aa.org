@@ -2274,7 +2274,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2298,7 +2298,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2322,7 +2322,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2346,7 +2346,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2370,7 +2370,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2394,7 +2394,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2418,7 +2418,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2442,7 +2442,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2466,7 +2466,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2490,7 +2490,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2514,7 +2514,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2538,7 +2538,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2562,7 +2562,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2586,7 +2586,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2610,7 +2610,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2634,7 +2634,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2658,7 +2658,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2682,7 +2682,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -2706,7 +2706,7 @@
             "B",
             "EN",
             "D",
-            "O"
+            "C"
         ],
         "approximate": false,
         "address": "1021 N Gilbert Ave",
@@ -4093,6 +4093,28 @@
         "city": "Rapid City",
         "state": "SD",
         "postal_code": "57701",
+        "country": "US"
+    },
+    {
+        "name": "Al & Jeff's Group",
+        "slug": "canyon-lake-jeffsgroup-Wednesday-19:00",
+        "day": 3,
+        "time": "19:00",
+        "timezone": "America/Central",
+        "location": "Canyon Lake Activity Center",
+        "notes": "",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/canyon-lake-jeffsgroup",
+        "types": [
+            "B",
+            "O",
+            "EN"
+        ],
+        "approximate": false,
+        "address": "2900 Canyon Lake Dr",
+        "city": "Rapid City",
+        "state": "SD",
+        "postal_code": "57702",
         "country": "US"
     },
     {
@@ -5667,6 +5689,29 @@
         "city": "Clark",
         "state": "SD",
         "postal_code": "57225",
+        "country": "US"
+    },
+    {
+        "name": "Awakening for Women",
+        "slug": "rapid-city-awakening4women-Thursday-18:30",
+        "day": 4,
+        "time": "18:30",
+        "timezone": "America/Central",
+        "location": "",
+        "notes": "",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/rapid-city-awakening4women",
+        "types": [
+            "EN",
+            "O",
+            "D",
+            "W"
+        ],
+        "approximate": false,
+        "address": "325 Deadwood Ave",
+        "city": "Rapid City",
+        "state": "SD",
+        "postal_code": "57702",
         "country": "US"
     },
     {
