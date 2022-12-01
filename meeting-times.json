@@ -457,9 +457,8 @@
         "url": "https://area63aa.org/meetings/d2-thursday-ten30-meeting",
         "types": [
             "C",
-            "T",
             "D",
-            "WA",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -503,9 +502,8 @@
         "url": "https://area63aa.org/meetings/d2-rapid-city-thursday-night",
         "types": [
             "C",
-            "BB",
-            "WA",
-            "R",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1122,8 +1120,7 @@
         "url": "https://area63aa.org/meetings/d2-early-risers-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1145,8 +1142,7 @@
         "url": "https://area63aa.org/meetings/d2-early-risers-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1168,8 +1164,7 @@
         "url": "https://area63aa.org/meetings/d2-early-risers-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1191,8 +1186,7 @@
         "url": "https://area63aa.org/meetings/d2-early-risers-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1214,8 +1208,7 @@
         "url": "https://area63aa.org/meetings/d2-early-risers-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1347,9 +1340,8 @@
         "url": "https://area63aa.org/meetings/d2-noon-luncheon-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1371,9 +1363,8 @@
         "url": "https://area63aa.org/meetings/d2-noon-luncheon-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1395,9 +1386,8 @@
         "url": "https://area63aa.org/meetings/d2-noon-luncheon-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1419,9 +1409,8 @@
         "url": "https://area63aa.org/meetings/d2-noon-luncheon-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1443,9 +1432,8 @@
         "url": "https://area63aa.org/meetings/d2-noon-luncheon-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -1513,7 +1501,6 @@
         "types": [
             "D",
             "O",
-            "T",
             "EN"
         ],
         "approximate": false,
@@ -1866,8 +1853,7 @@
         "types": [
             "C",
             "ST",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -2053,9 +2039,8 @@
         "url": "https://area63aa.org/meetings/d2-happy-hour-group",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -2077,9 +2062,8 @@
         "url": "https://area63aa.org/meetings/d2-happy-hour-group",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -2101,9 +2085,8 @@
         "url": "https://area63aa.org/meetings/d2-happy-hour-group",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -2125,9 +2108,8 @@
         "url": "https://area63aa.org/meetings/d2-happy-hour-group",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -2651,8 +2633,8 @@
         "url": "https://area63aa.org/meetings/d2-cabh",
         "types": [
             "O",
-            "WA",
-            "T",
+            "X",
+            "D",
             "EN"
         ],
         "approximate": false,
@@ -3343,8 +3325,7 @@
         "url": "https://area63aa.org/meetings/d2-breakfast-aa",
         "types": [
             "C",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -3366,8 +3347,7 @@
         "url": "https://area63aa.org/meetings/d2-young-guns-rapidcity",
         "types": [
             "O",
-            "T",
-            "R",
+            "D",
             "EN"
         ],
         "approximate": false,
@@ -3461,7 +3441,6 @@
         "types": [
             "EN",
             "O",
-            "T",
             "D"
         ],
         "approximate": false,
@@ -3484,7 +3463,6 @@
         "types": [
             "EN",
             "O",
-            "T",
             "D"
         ],
         "approximate": false,
@@ -3507,7 +3485,6 @@
         "types": [
             "EN",
             "O",
-            "T",
             "D"
         ],
         "approximate": false,
@@ -3530,7 +3507,6 @@
         "types": [
             "EN",
             "O",
-            "T",
             "D"
         ],
         "approximate": false,
@@ -3553,7 +3529,6 @@
         "types": [
             "EN",
             "O",
-            "T",
             "D"
         ],
         "approximate": false,
@@ -4092,8 +4067,8 @@
         "url": "https://area63aa.org/meetings/d2-ya-gotta-want-it",
         "types": [
             "O",
-            "BB",
-            "WA",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4138,11 +4113,10 @@
         "url": "https://area63aa.org/meetings/d2-black-hawk-group",
         "types": [
             "O",
-            "T",
+            "D",
             "SP",
-            "R",
             "ST",
-            "WA",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4164,9 +4138,8 @@
         "url": "https://area63aa.org/meetings/d2-hit-or-miss-meeting",
         "types": [
             "C",
-            "BB",
-            "WA",
-            "R",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4188,9 +4161,8 @@
         "url": "https://area63aa.org/meetings/d2-hit-or-miss-meeting",
         "types": [
             "C",
-            "BB",
-            "WA",
-            "R",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4212,9 +4184,8 @@
         "url": "https://area63aa.org/meetings/d2-hit-or-miss-meeting",
         "types": [
             "C",
-            "BB",
-            "WA",
-            "R",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4284,7 +4255,7 @@
             "C",
             "L",
             "D",
-            "WA",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4307,9 +4278,8 @@
         "types": [
             "O",
             "W",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4331,7 +4301,7 @@
         "url": "https://area63aa.org/meetings/d2-women-in-sobriety-meeting",
         "types": [
             "O",
-            "WA",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4353,8 +4323,7 @@
         "url": "https://area63aa.org/meetings/d2-rule-62-noon-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4376,8 +4345,7 @@
         "url": "https://area63aa.org/meetings/d2-rule-62-noon-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4399,8 +4367,7 @@
         "url": "https://area63aa.org/meetings/d2-rule-62-noon-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4422,8 +4389,7 @@
         "url": "https://area63aa.org/meetings/d2-rule-62-noon-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4445,8 +4411,7 @@
         "url": "https://area63aa.org/meetings/d2-rule-62-noon-group",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -4692,8 +4657,7 @@
         "url": "https://area63aa.org/meetings/d2-as-bill-sees-it",
         "types": [
             "O",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -5048,7 +5012,6 @@
         "url": "https://area63aa.org/meetings/d2-rapid-city-grp1",
         "types": [
             "C",
-            "R",
             "EN"
         ],
         "approximate": false,
@@ -5070,7 +5033,6 @@
         "url": "https://area63aa.org/meetings/d2-rapid-city-grp1",
         "types": [
             "C",
-            "R",
             "EN"
         ],
         "approximate": false,
@@ -5092,7 +5054,6 @@
         "url": "https://area63aa.org/meetings/d2-rapid-city-grp1",
         "types": [
             "C",
-            "R",
             "EN"
         ],
         "approximate": false,
@@ -5118,8 +5079,8 @@
             "S",
             "SP",
             "D",
-            "WA",
-            "CC",
+            "X",
+            "BA",
             "EN"
         ],
         "approximate": false,
@@ -5141,10 +5102,8 @@
         "url": "https://area63aa.org/meetings/d2-rushmore",
         "types": [
             "C",
-            "T",
-            "CU",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -5212,9 +5171,8 @@
         "url": "https://area63aa.org/meetings/d2-no-name-group",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -5282,9 +5240,8 @@
         "url": "https://area63aa.org/meetings/d2-keep-it-simple-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -5939,7 +5896,7 @@
         "types": [
             "O",
             "ST",
-            "WA",
+            "X",
             "W",
             "EN"
         ],
@@ -6180,8 +6137,8 @@
         "region": "Area 63 (SD)",
         "url": "https://area63aa.org/meetings/d2-hideaway-group",
         "types": [
-            "BB",
-            "WA",
+            "B",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -6269,8 +6226,8 @@
         "url": "https://area63aa.org/meetings/d2-beginners-meeting",
         "types": [
             "O",
-            "T",
-            "WA",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -6873,9 +6830,8 @@
         "url": "https://area63aa.org/meetings/d2-sunday-morning-spiritual",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -6898,8 +6854,7 @@
         "types": [
             "C",
             "ST",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -7058,7 +7013,6 @@
         "url": "https://area63aa.org/meetings/d2-hope-center",
         "types": [
             "O",
-            "T",
             "D",
             "EN"
         ],
@@ -7103,9 +7057,8 @@
         "url": "https://area63aa.org/meetings/d2-candlestick-meeting",
         "types": [
             "O",
-            "T",
             "D",
-            "WA",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -7192,10 +7145,9 @@
         "url": "https://area63aa.org/meetings/d2-monday-night-mens",
         "types": [
             "C",
-            "T",
+            "D",
             "M",
-            "WA",
-            "R",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -7354,9 +7306,8 @@
         "url": "https://area63aa.org/meetings/d2-ellsworth-group",
         "types": [
             "O",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -7526,8 +7477,8 @@
         "url": "https://area63aa.org/meetings/d2-happy-hour-group-topic",
         "types": [
             "O",
-            "T",
-            "WA",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -7975,9 +7926,8 @@
         "url": "https://area63aa.org/meetings/d2-canyon-lake-jeffsgroup",
         "types": [
             "C",
-            "T",
-            "WA",
-            "R",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -8046,8 +7996,8 @@
         "url": "https://area63aa.org/meetings/d2-how-it-works",
         "types": [
             "O",
-            "T",
-            "WA",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -9056,8 +9006,8 @@
         "url": "https://area63aa.org/meetings/d2-wall",
         "types": [
             "O",
-            "T",
-            "WA",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
@@ -9079,8 +9029,8 @@
         "url": "https://area63aa.org/meetings/d2-wall",
         "types": [
             "O",
-            "T",
-            "WA",
+            "D",
+            "X",
             "EN"
         ],
         "approximate": false,
