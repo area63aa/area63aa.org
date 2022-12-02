@@ -1241,6 +1241,27 @@
         "country": "US"
     },
     {
+        "name": "Armour AA",
+        "slug": "armour-Wednesday-20:00",
+        "day": 3,
+        "time": "20:00",
+        "timezone": "America/Central",
+        "location": "Douglas County Court House",
+        "notes": "",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/armour",
+        "types": [
+            "O",
+            "EN"
+        ],
+        "approximate": false,
+        "address": "706 Braddock Street",
+        "city": "Armour",
+        "state": "SD",
+        "postal_code": "57313",
+        "country": "US"
+    },
+    {
         "name": "Eagle Butte AA",
         "slug": "eagle-butte-Monday-19:00",
         "day": 1,
@@ -4124,6 +4145,27 @@
         "city": "Black Hawk",
         "state": "SD",
         "postal_code": "57718",
+        "country": "US"
+    },
+    {
+        "name": "Platte AA",
+        "slug": "platte-Thursday-20:00",
+        "day": 4,
+        "time": "20:00",
+        "timezone": "America/Central",
+        "location": "Olive Presbyterian Church",
+        "notes": "",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/platte",
+        "types": [
+            "O",
+            "EN"
+        ],
+        "approximate": false,
+        "address": "501 1st St",
+        "city": "Platte",
+        "state": "SD",
+        "postal_code": "57369",
         "country": "US"
     },
     {
