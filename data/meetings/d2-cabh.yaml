@@ -1,0 +1,11 @@
+area: 63
+district: 2
+address: 5031 SD-79, Rapid City, SD, 57701
+name: C.A.B.H.
+place: Next to DMV
+time:
+  Sunday: ['19:00']
+type: [O, X, D, EN]
+note: Photo ID & Check in Required
+longitude: -103.2158798
+latitude: 44.1044747

@@ -5,14 +5,14 @@ menu:
     weight: 30
 ---
 
-Sioux Falls Intergroup can be contacted via:
+Area 63 AA can be contacted via:
 
-- **Phone:** <a href="tel:605-274-1450">605-274-1450</a>
-- **Meeting:** Second Sunday of every month @ 4:30PM at [Westside AA](/meetings/sf-westside/)
-- **Email:** recovery@siouxfallsaa.org
+- **Email:** webmanager@area63aa.org
 - **Mail:**\
-  Sioux Falls Intergroup\
-  P.O. Box 182\
-  Sioux Falls, SD 57101
+  Area 63 Treasurer\
+  PO Box 3691\
+  Rapid City, SD 57709
 
-**Disrict 5 A.A.** meets at 6:00PM following the Intergroup meeting.
+Please note: Although we can try to help you locate a meeting in an area you
+may be visiting soon, you will be served much faster and more effectively if
+you search our meetings, listed by [Time](/meeting-times/) and [Location](/meeting-zips/).

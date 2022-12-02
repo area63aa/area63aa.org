@@ -1,0 +1,11 @@
+area: 63
+district: 2
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+name: Rapid City Group One
+time:
+  Sunday: ['10:30']
+  Tuesday: ['19:00']
+  Saturday: ['08:00']
+type: [C, EN]
+longitude: -103.26095477809162
+latitude: 44.08805131249051

@@ -2,6 +2,13 @@
 title: Regional Websites
 ---
 
+Districts:
+
+- 5: [Sioux Falls Area](https://www.siouxfallsaa.org/)
+- 13: [Northern Black Hills](https://www.aanorthernhills.org)
+
+Areas:
+
 - [Colorado (area 10)](https://coloradoaa.org/)
 - [Iowa (area 24)](https://www.aa-iowa.org/)
 - [Minnesota (Northern: area 35)](http://www.area35.org/)

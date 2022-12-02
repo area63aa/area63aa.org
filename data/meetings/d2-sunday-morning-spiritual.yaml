@@ -1,0 +1,10 @@
+area: 63
+district: 2
+address: 325 Deadwood Ave, Rapid City, SD, 57702
+name: Sunday Morning Spiritual
+place: Card Room & Pool Room
+time:
+  Sunday: ['10:30']
+type: [O, D, X, EN]
+longitude: -103.26095477809162
+latitude: 44.08805131249051

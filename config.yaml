@@ -1,23 +1,23 @@
-baseURL: https://siouxfallsaa.org/
-title: Sioux Falls Area
+baseURL: https://area63aa.org/
+title: Area 63 (SD)
 
 languageCode: en-us
-theme: [d5, aamod, mainroad]
+theme: [area63, aamod, mainroad]
 sectionPagesMenu: main
 paginate: 100
 buildFuture: true
+googleAnalytics: G-JC85111FJ6
 
 Params:
-  description: Area 63 District 5 (& neighbors) A.A. (Sioux Falls Area)
-  source: https://github.com/siouxfallsaa/siouxfallsaa.org/tree/master
-  mapapikey: AIzaSyBmA1S3MDI9CG8ahqzNje2Jy_yaWKfh7Ww
-  mapcenter: {lat: 43.536388, lng: -96.731667}
-  mapzoom: 8.5
-  copyright: Sioux Falls Intergroup
-  phone: 605-274-1450
+  description: Area 63 A.A. (South Dakota)
+  source: https://github.com/area63aa/area63aa.org/tree/master
+  mapapikey: AIzaSyCOYqYnjysljI3j2Z_F581D_9S49OxuGjo
+  mapcenter: {lat: 44.574, lng: -100.093}
+  mapzoom: 6
+  copyright: Area 63 A.A.
   logo:
     image: img/AAlogo.png
-    title: Sioux Falls Area A.A.
+    title: Area 63 (South Dakota)
   toc: true
   mainSections: [home, meetings, about, events]
   sidebar:
@@ -27,8 +27,6 @@ Params:
   widgets:
 
     resources:
-      - title: Meeting Schedule
-        url: /meeting-schedule.pdf
       - title: Big Book PDF
         url: /resources/AA_BigBook-4th.pdf
       - title: Daily Reflections PDF
@@ -37,40 +35,29 @@ Params:
         url: /regional-websites/
       - title: Regional Hotlines
         url: /regional-hotlines/
+      - title: Update Meeting
+        url: https://docs.google.com/forms/d/1PQJLwOIgv2OOw9LgD7M6UeGMbycnmNlRroMCG1IcIj0/
 
     aasites:
-      - title: A.A. Area 63 (S.D.)
-        url: https://area63aa.org/
+      - title: West Central Region AA
+        url: https://westcentralregion.org/
       - title: A.A. World Services
         url: https://www.aa.org/
       - title: Big Book Online
         url: https://www.aa.org/bigbookonline/
       - title: A.A. Grapevine
         url: http://www.aagrapevine.org/
+      - title: Meeting Guide Phone App
+        url: https://www.aa.org/meeting-guide-app
+
+menu:
+  main:
+    - identifier: conference
+      name: Next Conference
+      url: /events/2023-area63-spring-conference/
 
 markup:
   goldmark:
     renderer:
       # Permit raw HTML in content
       unsafe: true
-
-pdf-blurbs:
-  front: |
-    \vskip 2ex {\footnotesize If you have changes to this directory, please write to:}
-    \vskip 1ex {\large Sioux Falls Area Intergroup\\
-    P.O. Box 182\\
-    Sioux Falls, SD 57101}
-  alanon: |
-    {\7pt Al-Anon members are people who are worried about someone with a drinking problem.}\\
-    {\7pt\textbf{24-Hour Hotline:} (605) 679-5497}\\
-    {\7pt\textbf{Al-Anon Information:} al-anon.org}
-  resources: |
-    {\7pt\textbf{Local Area:} siouxfallsaa.org/meeting-times}\\
-    {\7pt\textbf{South Dakota State:} www.area63.org}\\
-    {\7pt\textbf{Iowa State:} www.aa-iowa.org}\\
-    {\7pt\textbf{Southern Minnesota:} www.area36.org}
-  details: |
-    \textbf{Sioux Falls Area Intergroup}\\
-    Meets at: Westside AA\\
-    1509 West 1st Street\\
-    {\6pt Every 2nd Sunday of the month at 4:30 PM}
