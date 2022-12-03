@@ -3691,6 +3691,29 @@
         "country": "US"
     },
     {
+        "name": "Young Guns AA",
+        "slug": "d5-youngguns-Sunday-19:30",
+        "day": 0,
+        "time": "19:30",
+        "timezone": "America/Central",
+        "location": "Calvary Episcopal Church",
+        "notes": "Use the north door on 13th St.\n<br>Last Sunday of the month is an Open Speaker meeting.\n",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/d5-youngguns",
+        "types": [
+            "EN",
+            "C",
+            "ST",
+            "X"
+        ],
+        "approximate": false,
+        "address": "500 S Main Ave",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "postal_code": "57104",
+        "country": "US"
+    },
+    {
         "name": "Downtown AA Meeting",
         "slug": "sf-downtown-Wednesday-17:30",
         "day": 3,
