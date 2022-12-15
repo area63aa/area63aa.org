@@ -559,6 +559,27 @@
         "country": "US"
     },
     {
+        "name": "Armour AA",
+        "slug": "d12-armour-Wednesday-20:00",
+        "day": 3,
+        "time": "20:00",
+        "timezone": "America/Central",
+        "location": "Douglas County Court House",
+        "notes": "Open birthday meeting on the last day of the month.",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/d12-armour",
+        "types": [
+            "C",
+            "EN"
+        ],
+        "approximate": false,
+        "address": "706 Braddock Street",
+        "city": "Armour",
+        "state": "SD",
+        "postal_code": "57313",
+        "country": "US"
+    },
+    {
         "name": "Southside AA",
         "slug": "d5-sf-southside-Sunday-10:00",
         "day": 0,
@@ -1261,27 +1282,6 @@
         "city": "Wanblee",
         "state": "SD",
         "postal_code": "57577",
-        "country": "US"
-    },
-    {
-        "name": "Armour AA",
-        "slug": "armour-Wednesday-20:00",
-        "day": 3,
-        "time": "20:00",
-        "timezone": "America/Central",
-        "location": "Douglas County Court House",
-        "notes": "",
-        "region": "Area 63 (SD)",
-        "url": "https://area63aa.org/meetings/armour",
-        "types": [
-            "O",
-            "EN"
-        ],
-        "approximate": false,
-        "address": "706 Braddock Street",
-        "city": "Armour",
-        "state": "SD",
-        "postal_code": "57313",
         "country": "US"
     },
     {
@@ -3418,6 +3418,78 @@
         "country": "US"
     },
     {
+        "name": "Noon Rapid City Zoom Group",
+        "slug": "rapid-city-noonzoom-Monday-12:00",
+        "day": 1,
+        "time": "12:00",
+        "timezone": "America/Central",
+        "location": "",
+        "notes": "<b>Zoom:</b> <a href=\"https://us02web.zoom.us/j/86160877370\">https://us02web.zoom.us/j/86160877370</a>,\n<br /><b>Meeting:</b> 861-6087-7370 <b>Password:</b> password\n<br /><br />Monday: Big Book Study\n<br />Friday: 12x12 Study\n<br />Sunday: Topic Discussion\n",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/rapid-city-noonzoom",
+        "types": [
+            "EN",
+            "O",
+            "B",
+            "12x12",
+            "D"
+        ],
+        "approximate": false,
+        "address": "325 Deadwood Ave",
+        "city": "Rapid City",
+        "state": "SD",
+        "postal_code": "57702",
+        "country": "US"
+    },
+    {
+        "name": "Noon Rapid City Zoom Group",
+        "slug": "rapid-city-noonzoom-Sunday-12:00",
+        "day": 0,
+        "time": "12:00",
+        "timezone": "America/Central",
+        "location": "",
+        "notes": "<b>Zoom:</b> <a href=\"https://us02web.zoom.us/j/86160877370\">https://us02web.zoom.us/j/86160877370</a>,\n<br /><b>Meeting:</b> 861-6087-7370 <b>Password:</b> password\n<br /><br />Monday: Big Book Study\n<br />Friday: 12x12 Study\n<br />Sunday: Topic Discussion\n",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/rapid-city-noonzoom",
+        "types": [
+            "EN",
+            "O",
+            "B",
+            "12x12",
+            "D"
+        ],
+        "approximate": false,
+        "address": "325 Deadwood Ave",
+        "city": "Rapid City",
+        "state": "SD",
+        "postal_code": "57702",
+        "country": "US"
+    },
+    {
+        "name": "Noon Rapid City Zoom Group",
+        "slug": "rapid-city-noonzoom-Friday-12:00",
+        "day": 5,
+        "time": "12:00",
+        "timezone": "America/Central",
+        "location": "",
+        "notes": "<b>Zoom:</b> <a href=\"https://us02web.zoom.us/j/86160877370\">https://us02web.zoom.us/j/86160877370</a>,\n<br /><b>Meeting:</b> 861-6087-7370 <b>Password:</b> password\n<br /><br />Monday: Big Book Study\n<br />Friday: 12x12 Study\n<br />Sunday: Topic Discussion\n",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/rapid-city-noonzoom",
+        "types": [
+            "EN",
+            "O",
+            "B",
+            "12x12",
+            "D"
+        ],
+        "approximate": false,
+        "address": "325 Deadwood Ave",
+        "city": "Rapid City",
+        "state": "SD",
+        "postal_code": "57702",
+        "country": "US"
+    },
+    {
         "name": "Pass It On Group",
         "slug": "pass-it-on-Tuesday-19:00",
         "day": 2,
@@ -3961,27 +4033,6 @@
         "city": "Black Hawk",
         "state": "SD",
         "postal_code": "57718",
-        "country": "US"
-    },
-    {
-        "name": "Platte AA",
-        "slug": "platte-Thursday-20:00",
-        "day": 4,
-        "time": "20:00",
-        "timezone": "America/Central",
-        "location": "Olive Presbyterian Church",
-        "notes": "",
-        "region": "Area 63 (SD)",
-        "url": "https://area63aa.org/meetings/platte",
-        "types": [
-            "O",
-            "EN"
-        ],
-        "approximate": false,
-        "address": "501 1st St",
-        "city": "Platte",
-        "state": "SD",
-        "postal_code": "57369",
         "country": "US"
     },
     {
@@ -5608,6 +5659,27 @@
         "city": "Rapid City",
         "state": "SD",
         "postal_code": "57701",
+        "country": "US"
+    },
+    {
+        "name": "Platte AA",
+        "slug": "d12-platte-Thursday-20:00",
+        "day": 4,
+        "time": "20:00",
+        "timezone": "America/Central",
+        "location": "Olive Presbyterian Church",
+        "notes": "Open birthday meeting on the last day of the month.",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/d12-platte",
+        "types": [
+            "C",
+            "EN"
+        ],
+        "approximate": false,
+        "address": "501 1st St",
+        "city": "Platte",
+        "state": "SD",
+        "postal_code": "57369",
         "country": "US"
     },
     {
