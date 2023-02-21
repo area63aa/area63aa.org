@@ -1,8 +1,8 @@
 area: 63
-#district: 8
+district: 8
 address: 626 1st St SW, Huron, SD, 57350
 name: Riverside AA Group
-place: 
+place: Alano Club
 time:
   Monday: ['12:00', '20:00']
   Tuesday: ['12:00', '20:00']
@@ -11,6 +11,6 @@ time:
   Friday: ['12:00', '20:00']
   Saturday: ['12:00', '20:00']
   Sunday: ['12:00', '20:00']
-type: [X, O, EN, B]
+type: [X, B, EN, D, O]
 longitude: -98.224540
 latitude: 44.365430 
