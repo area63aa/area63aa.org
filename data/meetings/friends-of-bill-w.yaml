@@ -1,10 +1,14 @@
 area: 63
-#district: ?
-address: 2411 Minnekahta Ave, Hot Springs, SD, 57747
+district: 10
+address: 1537 Baltimore Ave, Hot Springs, SD, 57747
 name: Friends of Bill W
-place: State VETS Home Bldg 1
+place: Bethesda Lutheran Church
 time:
-  Sunday: ['08:30', '19:00', '18:00', '10:00']
-type: [D, X, O, EN]
-longitude: -103.49152756060606
-latitude: 43.43747746969697
+  Tuesday: ['18:00']
+  Thursday: ['18:00']
+  Saturday: ['10:00']
+ note: 
+   Enter door to left of Main Entrance downstairs(lift provided)
+type: [D, X, O, EN, B, 12x12, TR]
+longitude: -103.47967351350755
+latitude: 43.4275778533826
