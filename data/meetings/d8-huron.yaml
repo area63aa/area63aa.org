@@ -12,5 +12,5 @@ time:
   Saturday: ['12:00', '20:00']
   Sunday: ['12:00', '20:00']
 type: [X, B, EN, D, O]
-longitude: -98.224540
-latitude: 44.365430 
+longitude: -98.22441675961625
+latitude: 44.36557904866339
