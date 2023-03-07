@@ -3,11 +3,11 @@ district: 10
 address: 1537 Baltimore Ave, Hot Springs, SD, 57747
 name: Friends of Bill W
 place: Bethesda Lutheran Church
-time: 
+time:
  Tuesday: ['18:00']
  Thursday: ['18:00']
  Saturday: ['10:00']
-note: Enter door to left of Main Entrance downstairs(lift provided)
+note: Enter door to left of Main Entrance downstairs; lift provided
 type: [D, X, O, EN, B, 12x12, TR]
 latitude: 43.427498255981014
 longitude: -103.47945082703903
