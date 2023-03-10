@@ -1,5 +1,5 @@
 area: 63
-#district: ?
+district: 2
 name: Breakfast Big Book Meeting
 time:
   Monday: ['06:00']
