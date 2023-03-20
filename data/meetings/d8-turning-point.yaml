@@ -1,6 +1,6 @@
 area: 63
 district: 8
-address: 890 3rd St. SW, Huron, SD, 57350
+address: 235 Kansas Ave SE, Huron, SD, 57350
 name: Turning Point
 place: Turning Point
 time:
@@ -12,5 +12,5 @@ time:
   Tuesday: ['12:00', '18:30']
   Wednesday: ['18:30']
 type: [X, O, EN]
-longitude: -98.228241
-latitude: 44.364088
+longitude: -98.21281355931978
+latitude: 44.36416297186246
