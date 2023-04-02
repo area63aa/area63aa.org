@@ -1,0 +1,15 @@
+area: 63
+district: 6
+address: 302 East Maple, Sisseton, SD, 57262
+name: Dakota Plains Recovery
+time:
+    Sunday: ["20:00"]
+    Monday: ["12:00"]
+    Tuesday: ["20:00"]
+    Wednesday: ["12:00", "20:00"]
+    Thursday: ["20:00"]
+    Friday: ["12:00"]
+    Saturday: ["10:00", "20:00"]
+type: [O, EN]
+longitude: -97.04699937277763
+latitude: 45.66388694168774
