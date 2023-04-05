@@ -10,6 +10,6 @@
     Saturday: ["20:00"]
   place: Huron Riverside Alano Club
   address: 626 1st St SW, Huron, SD, 57350
-  type: [EN]
+  type: [EN, O, B, D]
   longitude: -98.22440603048408
   latitude: 44.36553302883201
