@@ -1,4 +1,5 @@
 area: 63
+district: 2
 name: Sober Sunrise
 time:
   Monday: ["06:45"]
@@ -10,6 +11,6 @@ address: zoom,Online-Only,,
 note: |
     <b>Zoom:</b> <a href="https://us02web.zoom.us
     <br /><b>Meeting:</b> 944-241-0663 <b>Password:</b> \Rise@645
-type: [EN, O, D]
+type: [EN, O, D, SP, 12x12, ST, TR]
 longitude: -1
 latitude: -1
