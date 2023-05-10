@@ -4,7 +4,6 @@ address: 845 N 5th St, Spearfish, SD, 57783
 name: Spearfish Sunday Literature Group
 place: Northern Hills Recovery
 time:
-  Tuesday: ['19:30']
   Sunday: ['20:00']
 type: [C, D, X, EN]
 note: |
