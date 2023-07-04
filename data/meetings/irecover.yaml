@@ -1,0 +1,11 @@
+area: 63
+district: 8 
+irecover:
+  name: IRecover
+  time:
+    Wednesday: ["18:30"]
+  place: IRecover Treatment Center
+  address: 103 S Main St, Howard, SD 57349
+  type: [EN, C, D]
+longitude: -97.52703216560698
+latitude: 44.012241014193485
