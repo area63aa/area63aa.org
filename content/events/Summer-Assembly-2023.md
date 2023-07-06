@@ -13,9 +13,10 @@ menu: side
 **Where:** Zoom ID: 895 7966 9419   Passcode: Sober23
 
 
-This is additional information. The link to the meeting location is pointing to
-``/meeting/verylocal``. Although this page doesn't exist now, ``make`` will
-generate the page using the "``shortname``" from ``data/meetings.yml``.
+This assembly is completely virtual. Registration will open at 8am Mtn. on Saturday and 8am Mtn. on Sunday. Committee Chairs please be ready to host your committees with good Wi-Fi and a functional computer. 
 
-This example document is a draft, set by ``draft: true`` in the header. That
-will prevent this page from being published.
+Zoom ID: 895 7966 9419
+
+Passcode: Sober23
+
+
