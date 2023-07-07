@@ -22,6 +22,8 @@ Passcode: Sober23
 
 https://area63aa.org/events/Summer-assembly-flyer-2023.pdf
 
+https://area63aa.org/events/Summer-Virtual-Assembly-Agenda-2023.pdf
+
 Summer Virtual Assembly
 2023
 Mountain Time
