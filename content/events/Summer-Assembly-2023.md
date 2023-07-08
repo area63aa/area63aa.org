@@ -15,6 +15,8 @@ menu: side
 
 This assembly is completely virtual. Registration will open at 8am Mtn. on Saturday and 8am Mtn. on Sunday. Committee Chairs please be ready to host your committees with good Wi-Fi and a functional computer. 
 
+https://us02web.zoom.us/j/89579669419?pwd=V1NiR2ZpM0VSTitOcXZ2Z3o3L0I3QT09
+
 Zoom ID: 895 7966 9419
 
 Passcode: Sober23
