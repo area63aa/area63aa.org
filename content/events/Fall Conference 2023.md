@@ -13,6 +13,6 @@ menu: side
 **Where:** Hot Springs, SD
 
 
-
+https://area63aa.org/events/Fall-Conference-2023-Hot-Springs.pdf
 
 
