@@ -8,11 +8,10 @@ time:
   Thursday: ["06:45"]
   Friday: ["06:45"]
 address: zoom,Online-Only,,
-note: Meeting ID:  944-241-0663    Password:  Rise@645
-    <b>Zoom:</b> <a href="https://us02web.zoom.us
+note: | 
+     Meeting ID:  944-241-0663    Password:  Rise@645
+    <b>Zoom:</b> <a href="https://us02web.zoom.us/j/9442410663">https://us02web.zoom.us/j/9442410663</a>,
     <br /><b>Meeting:</b> 944-241-0663 <b>Password:</b> \Rise@645
-
-Meeting ID:  944-241-0663    Password:  Rise@645
 type: [EN, O, D, SP, 12x12, ST, TR]
 longitude: -1
 latitude: -1
