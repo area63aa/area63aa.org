@@ -6,6 +6,8 @@ irecover:
     Wednesday: ["18:30"]
   place: IRecover Treatment Center
   address: 103 S Main St, Howard, SD 57349
+  note: |
+      North Entrance
   type: [EN, C, D]
 longitude: -97.52703216560698
 latitude: 44.012241014193485
