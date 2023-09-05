@@ -1,6 +1,6 @@
 ---
 title: 2023 West Central Regional Forum
-draft: false
+draft: true
 date: 2022-11-12
 menu: side
 ---
