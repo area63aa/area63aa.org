@@ -13,8 +13,9 @@ menu: side
 **Where:** Hot Springs, SD
 
 
-|https://area63aa.org/events/Fall-Conference-2023-Flyer-Hot-Springs.pdf
+https://area63aa.org/events/Fall-Conference-2023-Flyer-Hot-Springs.pdf
 |
-|Register Online  https://www.eventbrite.com/e/area-63-fall-conference-2023-tickets-674448201727
+|
+Register Online  https://www.eventbrite.com/e/area-63-fall-conference-2023-tickets-674448201727
 
 
