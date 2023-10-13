@@ -1,9 +1,9 @@
 area: 63
 address: 216 Abdnor Drive, Pickstown, SD, 57367
-name: Brookings Original Group
-place: Brookings Club
+name: Nooners
+place: Pickstown Community Church Basement
 time:
   Friday: ['12:00']
 type: [C, EN, D, T]
-longitude:-98.53253900325588
+longitude: -98.53253900325588
 latitude: 43.06533647408305
