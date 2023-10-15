@@ -1446,6 +1446,29 @@
         "country": "US"
     },
     {
+        "name": "Pickstown Nooners",
+        "slug": "pickstown-nooners-Friday-12:00",
+        "day": 5,
+        "time": "12:00",
+        "timezone": "America/Central",
+        "location": "Pickstown Community Church Basement",
+        "notes": "Meeting is in the basement of Pickstown Community Church \n<br />Contact Kathleen @ 360-214-6181\n",
+        "region": "Area 63 (SD)",
+        "url": "https://area63aa.org/meetings/pickstown-nooners",
+        "types": [
+            "EN",
+            "C",
+            "B",
+            "D"
+        ],
+        "approximate": false,
+        "address": "216 Abdnor Drive",
+        "city": "Pickstown",
+        "state": "SD",
+        "postal_code": "57367",
+        "country": "US"
+    },
+    {
         "name": "Serenity on Saturday Al-Anon",
         "slug": "d5-serenitysaturday-Saturday-10:00",
         "day": 6,
@@ -8274,29 +8297,6 @@
         "city": "Pierre",
         "state": "SD",
         "postal_code": "57501",
-        "country": "US"
-    },
-    {
-        "name": "Pickstown Nooners",
-        "slug": "Nooners-Friday-12:00",
-        "day": 5,
-        "time": "12:00",
-        "timezone": "America/Central",
-        "location": "Pickstown Community Church Basement",
-        "notes": "Meeting is in the basement of Pickstown Community Church \n<br />Contact Kathleen @ 360-214-6181\n",
-        "region": "Area 63 (SD)",
-        "url": "https://area63aa.org/meetings/Nooners",
-        "types": [
-            "EN",
-            "C",
-            "B",
-            "D"
-        ],
-        "approximate": false,
-        "address": "216 Abdnor Drive",
-        "city": "Pickstown",
-        "state": "SD",
-        "postal_code": "57367",
         "country": "US"
     },
     {
