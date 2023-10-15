@@ -8278,8 +8278,8 @@
     },
     {
         "name": "Pickstown Nooners",
-        "slug": "Nooners-Monday-12:00",
-        "day": 1,
+        "slug": "Nooners-Friday-12:00",
+        "day": 5,
         "time": "12:00",
         "timezone": "America/Central",
         "location": "Pickstown Community Church Basement",
